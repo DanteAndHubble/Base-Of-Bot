@@ -1,11 +1,12 @@
-🤖 # Base-Of-Bot
+# 🤖Base-Of-Bot
+
 This a command handler based off of Dashcuft's tutorial, download and it is ready to go!
 
 # ⚡Installation
 
 __Step 1:__
 
-Go to **settings.json** and fill out the following info:
+Go to _settings.json_ and fill out the following info:
 ```JS
 
 {
@@ -15,17 +16,17 @@ Go to **settings.json** and fill out the following info:
 }
 
 ```
-❗ # Some more info
+# ❗Some more info
 
 This is how you make a command:
 
-Step 1:
+**Step 1:**
 
 Create a new file in the _commands_ folder.
 
-Step 2:
+Step 2:**
 
-copy and paste this code: 
+**copy and paste this code: 
 
 ```JS
 
