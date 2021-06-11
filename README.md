@@ -24,9 +24,9 @@ This is how you make a command:
 
 Create a new file in the _commands_ folder.
 
-Step 2:**
+**Step 2:**
 
-**copy and paste this code: 
+copy and paste this code: 
 
 ```JS
 
