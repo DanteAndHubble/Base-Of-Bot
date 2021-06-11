@@ -1,5 +1,6 @@
 {
     "token": "TOKEN_HERE",
     "MongoDB": "MONGODB_URL_HERE",
-    "defPrefix": "?"
+    "defPrefix": "?",
+    "Status": "'?help for help | outlandbot.xyz'"
 }
