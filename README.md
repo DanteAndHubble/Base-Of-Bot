@@ -1,6 +1,6 @@
 # 🤖Base-Of-Bot
 
-This a command handler based off of Dashcuft's tutorial, download and it is ready to go!
+This a command handler based off of Dashcuft's tutorial, copy the code and it is ready to go!
 
 # ⚡Installation
 
