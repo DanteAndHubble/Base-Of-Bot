@@ -1,4 +1,5 @@
 {
     "token": "TOKEN_HERE",
-    "MongoDB": "MONGODB_URL_HERE"
+    "MongoDB": "MONGODB_URL_HERE",
+    "defPrefix": "?"
 }
