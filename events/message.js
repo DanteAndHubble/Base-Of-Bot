@@ -10,7 +10,7 @@ module.exports = async (bot, message) => {
   const prefix = config.defPrefix;
 
   if (!message.content.startsWith(prefix)) return;
-  const commandfile = bot.commands.get(cmd.slice(prefix.length).toString().toLowerCase()) || bot.commands.get(bot.aliases.get(cmd.slice(prefix.length).toString().toLowerCase()));;
+  const commandfile = bot.commands.get(cmd.slice(prefix.length).toString().toLowerCase()) || bot.commands.get(bot.aliases.get(cmd.slice(prefix.length).toString().toLowerCase()));
   if (commandfile) {
     commandfile.run(bot, message, args);
   }
