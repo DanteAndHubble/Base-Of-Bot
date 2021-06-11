@@ -1,5 +1,5 @@
-# Base-Of-Bot
-This a command handler based off of Dashcuft's tutorial
+🤖 # Base-Of-Bot
+This a command handler based off of Dashcuft's tutorial, download and it is ready to go!
 
 # ⚡Installation
 
@@ -15,7 +15,7 @@ Go to **settings.json** and fill out the following info:
 }
 
 ```
-# Some more info
+❗ # Some more info
 
 This is how you make a command:
 
