@@ -11,8 +11,9 @@ Go to _settings.json_ and fill out the following info:
 
 {
     "token": "TOKEN_HERE", //required
-    "MongoDB": "MONGODB_URL_HERE", //this is optional
-    "defPrefix": "?" //required
+    "MongoDB": "MONGODB_URL_HERE", //optional 
+    "defPrefix": "?", //required
+    "Status": "'?help for help | outlandbot.xyz'" //required
 }
 
 ```
