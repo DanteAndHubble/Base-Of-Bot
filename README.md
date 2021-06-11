@@ -6,13 +6,15 @@ This a command handler based off of Dashcuft's tutorial
 __Step 1:__
 
 Go to **settings.json** and fill out the following info:
+```JS
 
 {
-    "token": "TOKEN_HERE", (required)
-    "MongoDB": "MONGODB_URL_HERE", (this is optional)
-    "defPrefix": "?" (required)
+    "token": "TOKEN_HERE", //required
+    "MongoDB": "MONGODB_URL_HERE", //this is optional
+    "defPrefix": "?" //required
 }
 
+```
 # Some more info
 
 This is how you make a command:
