@@ -5,9 +5,11 @@ const bot = new Discord.Client({
 const config = require('./settings.json');
 const { loadCommands } = require('./utils/loadCommands');
 
+// unblock this IF you are using mongoose
+/*
 const mongoose = require('mongoose');
 mongoose.connect(config.MongoDB, { useNewUrlParser: true, useUnifiedTopology: true, })
-
+*/
 require('./utils/loadEvents')(bot);
 
 bot.commands = new Discord.Collection();
