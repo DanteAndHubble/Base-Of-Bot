@@ -39,8 +39,8 @@ module.exports.run = async (client, message, args) => {
 }
 
 module.exports.config = {
-    name: "hi",  //this is the name of a command, NO PREFIX
-    aliases: ['h']  //this is the nickname for a command
+    name: "ping",  //this is the name of the command, NO PREFIX
+    aliases: ['latency']  //this is the nickname for a command
 }
 
 ```
